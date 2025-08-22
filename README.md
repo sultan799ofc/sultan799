@@ -1,34 +1,34 @@
-# Sultan799
+# Sultan799 – Solusi Digital Profesional untuk Website, Aplikasi, Integrasi & Layanan SEO Berkualitas
 
 ![Brand](https://img.shields.io/badge/brand-Sultan799-111?labelColor=000)
-![Status](https://img.shields.io/badge/official-website-blue)
+![Official Website](https://img.shields.io/badge/website-sultan799.co.id-blue)
 
-## 🌐 Situs Resmi
-👉 **[https://sultan799.co.id](https://sultan799.co.id)**  
-
----
-
-## Tentang Kami
-**Sultan799** adalah penyedia solusi digital yang berfokus pada:
-- Pengembangan **website & aplikasi**
-- **Integrasi API** & otomasi proses
-- **Optimasi performa & SEO**
-- **Keamanan & DevOps**
-
-Kami membantu bisnis bertumbuh dengan teknologi modern yang **aman, cepat, dan scalable**.
+## 🌐 Kunjungi Situs Resmi
+👉 **[https://sultan799.co.id](https://sultan799.co.id)**
 
 ---
 
-## Ikuti Kami
+## Tentang Sultan799
+**Sultan799** menghadirkan layanan digital profesional yang berfokus pada:
+- Pengembangan **website modern & aplikasi berkualitas tinggi**
+- **Integrasi API & otomasi proses bisnis**
+- **Optimasi performa & SEO teknis**
+- **Keamanan, DevOps, dan skalabilitas**  
+
+Kami membantu bisnis tumbuh lebih cepat dan efisien dengan teknologi modern yang **aman, cepat, dan scalable**.
+
+---
+
+## Ikuti & Profil Resmi
 - 🌍 Website: [sultan799.co.id](https://sultan799.co.id)  
 - 🔗 LinkedIn: [linkedin.com/company/sultan799](#)  
 - 📸 Instagram: [instagram.com/sultan799](#)  
-- 🐦 X/Twitter: [x.com/sultan799vip](#)  
+- 🐦 X/Twitter: [x.com/sultan799](#)  
 - ▶️ YouTube: [youtube.com/@sultan799](#)  
 
 ---
 
 ## 📣 Catatan
-> Repositori GitHub ini adalah profil resmi **Sultan799**.  
-> Untuk informasi lengkap & layanan, kunjungi website utama kami:  
-👉 **[https://sultan799.co.id](https://sultan799.co.id)**  
+> Repository GitHub ini adalah **profil resmi Sultan799**.  
+> Untuk informasi lengkap & layanan digital profesional, kunjungi website utama kami:  
+👉 **[https://sultan799.co.id](https://sultan799.co.id)**

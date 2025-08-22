@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Sultan799",
+  "url": "https://sultan799.co.id",
+  "logo": "https://sultan799.co.id/logo.png",
+  "sameAs": [
+    "https://github.com/sultan799ofc",
+    "https://www.linkedin.com/company/sultan799",
+    "https://www.instagram.com/sultan799",
+    "https://x.com/sultan799vip",
+    "https://www.youtube.com/@sultan799"
+  ]
+}

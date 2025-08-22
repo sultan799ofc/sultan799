@@ -23,7 +23,7 @@ Kami membantu bisnis bertumbuh dengan teknologi modern yang **aman, cepat, dan s
 - 🌍 Website: [sultan799.co.id](https://sultan799.co.id)  
 - 🔗 LinkedIn: [linkedin.com/company/sultan799](#)  
 - 📸 Instagram: [instagram.com/sultan799](#)  
-- 🐦 X/Twitter: [x.com/sultan799](#)  
+- 🐦 X/Twitter: [x.com/sultan799vip](#)  
 - ▶️ YouTube: [youtube.com/@sultan799](#)  
 
 ---
